@@ -1,4 +1,4 @@
-- 👋 Hi, I’m piloow
+- 👋 Hi, I’m pillu
 - 👀 I’m interested in CODING
 - 🌱 I’m currently learning JAVASCRIPT
 - 💞️ I’m looking to collaborate on SOFTWARE COMPANIES
